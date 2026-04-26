@@ -18,13 +18,13 @@ export const metadata: Metadata = {
   title: 'Nutri Karen — Nutrição Funcional para SOP, Endometriose, SIBO, GLP-1',
   description:
     'Acompanhamento nutricional online que trata a raiz: inflamação, intestino e metabolismo. Plano personalizado por R$ 180/mês. Sem restrição extrema.',
-  metadataBase: new URL('https://nutrikaren.com.br'),
+  metadataBase: new URL('https://karennutri.vercel.app'),
   alternates: { canonical: '/' },
   openGraph: {
     title: 'Nutri Karen — Nutrição Funcional Personalizada',
     description:
       'Plano alimentar individualizado para SOP, endometriose, lipedema, SIBO, pós-bariátrica e GLP-1. Trate a raiz, não o sintoma.',
-    url: 'https://nutrikaren.com.br',
+    url: 'https://karennutri.vercel.app',
     siteName: 'Nutri Karen',
     locale: 'pt_BR',
     type: 'website',
@@ -47,11 +47,11 @@ export const viewport: Viewport = {
 const organizationSchema = {
   '@context': 'https://schema.org',
   '@type': 'LocalBusiness',
-  '@id': 'https://nutrikaren.com.br',
+  '@id': 'https://karennutri.vercel.app',
   name: 'Nutri Karen',
   description:
     'Atendimento nutricional online com foco em nutrição funcional para saúde da mulher.',
-  url: 'https://nutrikaren.com.br',
+  url: 'https://karennutri.vercel.app',
   priceRange: 'R$ 180',
   areaServed: 'BR',
 }

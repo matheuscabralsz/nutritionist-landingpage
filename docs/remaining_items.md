@@ -22,7 +22,7 @@ The footer links to `/privacidade` and `/termos`, which currently return 404.
 
 ### 1.2 Domain and DNS
 
-- [ ] Confirm the final domain. Current hardcoded value in `app/layout.tsx` is `https://nutrikaren.com.br` (guess, not verified).
+- [ ] Confirm the final domain. Current hardcoded value in `app/layout.tsx` is `https://karennutri.vercel.app` (guess, not verified).
   - Affects: `metadataBase`, canonical URL, `openGraph.url`, JSON-LD `@id` and `url`.
 - [ ] Buy the domain (Registro.br for `.com.br` — requires CPF/CNPJ).
 - [ ] Pick hosting. Recommended: **Vercel** (free tier fits this site comfortably, native Next.js support, automatic HTTPS).
