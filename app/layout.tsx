@@ -36,6 +36,9 @@ export const metadata: Metadata = {
       'Acompanhamento online para SOP, endometriose, SIBO, GLP-1 e mais.',
   },
   robots: { index: true, follow: true },
+  icons: {
+    icon: [{ url: '/logo2-white-circle.svg', type: 'image/svg+xml' }],
+  },
 }
 
 export const viewport: Viewport = {
