@@ -81,7 +81,7 @@ export function Pricing() {
                 Quero agendar minha consulta
               </Button>
               <p className="text-xs text-stone-500">
-                Pagamento via PIX ou cartão · emissão de NF
+                Pagamento via PIX · emissão de NF
               </p>
             </div>
           </div>
